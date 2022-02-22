@@ -1,0 +1,12 @@
+[submodule "ms"]
+	path = ms
+	url = https://github.com/sasp1/asdf-ms.git
+[submodule "auth_ms"]
+	path = auth_ms
+	url = https://github.com/sasp1/asdf-auth-ms.git
+[submodule "api_gateway"]
+	path = api_gateway
+	url = https://github.com/sasp1/asdf-api-gateway.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sasp1/asdf-frontend.git
